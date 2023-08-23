@@ -1,1 +1,1 @@
-Simple shell project by Ogundare Omotolani and Achilonu James
+This is a "simple_shell" team project by Ogundare Omotolani and Achilonu James
